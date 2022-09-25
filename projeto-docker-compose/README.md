@@ -16,4 +16,9 @@
 
 - docker-compose down
 
+## 🛠 Ferramentas Utilizadas
+
+ - Sistema Operacional Windows (Apesar das aulas todas serem em Linux)
+ - Docker
+ - Docker Compose
  
