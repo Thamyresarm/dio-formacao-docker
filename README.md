@@ -2,6 +2,8 @@
 
 Tentarei expor o máximo de informações possíveis sobre Docker e Docker Compose para auxiliar no aprendizado.
 
+![image](https://user-images.githubusercontent.com/24790794/192305550-13571a03-3837-45ff-924c-ab59d32f2354.png)
+
 ## Principais comandos
 
 > Levantar uma imagem: 
